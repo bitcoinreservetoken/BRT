@@ -1,0 +1,1 @@
+BRT is an ERC20 token that seamlessly integrates with Bitcoin, providing users with Bitcoin rewards while participating in the DeFi ecosystem. Every transaction contributes to the distribution of rewards for all holders. Community members are able to benefit from and enjoy the stability of Bitcoin and the innovation of DeFi.
